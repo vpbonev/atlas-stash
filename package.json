@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "REST Client for Atlassian's Stash repository",
   "main": "lib/stash.js",
+  "engines": {
+    "node": "0.10.*"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +19,8 @@
   "author": "Dan Rumney <dancrumb@gmail.com>",
   "license": "Public Domain",
   "readmeFilename": "README.md",
-  "gitHead": "737fd99e88b98af1f07a675b815a6808d0626e2a"
+  "gitHead": "737fd99e88b98af1f07a675b815a6808d0626e2a",
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
 }

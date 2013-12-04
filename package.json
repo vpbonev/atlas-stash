@@ -1,6 +1,6 @@
 {
   "name": "atlas-stash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "REST Client for Atlassian's Stash repository",
   "main": "lib/stash.js",
   "engines": {

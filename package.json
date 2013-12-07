@@ -1,6 +1,6 @@
 {
   "name": "atlas-stash",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "REST Client for Atlassian's Stash repository",
   "main": "lib/stash.js",
   "engines": {
@@ -21,6 +21,7 @@
   "readmeFilename": "README.md",
   "gitHead": "737fd99e88b98af1f07a675b815a6808d0626e2a",
   "dependencies": {
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "request": "~2.27.0"
   }
 }

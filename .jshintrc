@@ -14,5 +14,9 @@
     "node": true,
     "noempty": true,
     "esnext": false,
-    "expr": false
+    "expr": false,
+    "globals": {
+        "exports": false,
+        "require": false
+    }
 }

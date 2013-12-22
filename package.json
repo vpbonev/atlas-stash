@@ -14,7 +14,8 @@
     "url": "git://github.com/dancrumb/atlas-stash.git"
   },
   "keywords": [
-    "stash", "atlassian"
+    "stash",
+    "atlassian"
   ],
   "author": "Dan Rumney <dancrumb@gmail.com>",
   "license": "Public Domain",
@@ -24,6 +25,7 @@
     "request": "~2.27.0"
   },
   "devDependencies": {
-    "mocha": "~1.15.1"
+    "mocha": "~1.15.1",
+    "dox": "~0.4.4"
   }
 }
